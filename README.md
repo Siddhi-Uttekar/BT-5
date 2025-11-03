@@ -34,3 +34,11 @@ npm run dev
 Go to localhost 3000
 
 Enroll admin and  register user ,fill assets ,done
+------------------------------------------------------
+wsl --install
+
+wsl -l -v
+wsl -d Ubuntu-22.04 -u root
+ls /home
+siddhi
+ passwd siddhi
