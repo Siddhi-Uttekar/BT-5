@@ -1,6 +1,5 @@
 # BT-5
-Pahile powershell madhe jaun ubuntu select karayche tyantr Prashant git clone chi command https://github.com/PrashantPatil10178/BT-5.git
-Nantr cd BT-5
+cd BT-5
 ./setup.sh
 Setup start installing
 Installation hot asatana docker open karun -resources-wsl integration -allow ubuntu
